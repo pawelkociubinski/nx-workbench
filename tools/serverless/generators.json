@@ -1,0 +1,9 @@
+{
+  "generators": {
+    "scaffold": {
+      "factory": "./src/generators/scaffold/generator",
+      "schema": "./src/generators/scaffold/schema.json",
+      "description": "scaffold generator"
+    }
+  }
+}
