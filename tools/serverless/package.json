@@ -1,0 +1,14 @@
+{
+  "name": "@pk/serverless",
+  "version": "1.0.0",
+  "dependencies": {
+    "@nx/devkit": "19.7.3",
+    "tslib": "^2.3.0"
+  },
+  "type": "commonjs",
+  "main": "./src/index.js",
+  "typings": "./src/index.d.ts",
+  "private": true,
+  "generators": "./generators.json",
+  "executors": "./executors.json"
+}
