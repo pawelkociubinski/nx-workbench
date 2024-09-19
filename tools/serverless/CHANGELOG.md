@@ -2,6 +2,8 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [2.0.0](https://github.com/pawelkociubinski/nx-workbench/compare/serverless-1.0.0...serverless-2.0.0) (2024-09-19)
+
 ## 1.0.0 (2024-09-19)
 
 ## 0.1.0 (2024-09-19)
