@@ -50,6 +50,7 @@
     "version": {
       "executor": "@jscutlery/semver:version",
       "options": {
+        "baseBranch": "master",
         "preset": "conventionalcommits",
         "push": true,
         "postTargets": ["build", "npm", "github"]
