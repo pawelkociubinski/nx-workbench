@@ -1,6 +1,6 @@
 {
   "name": "@pk/serverless",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "dependencies": {
     "@nx/devkit": "19.7.3",
     "tslib": "^2.3.0"
