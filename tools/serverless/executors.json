@@ -1,14 +1,14 @@
 {
   "executors": {
-    "application": {
-      "implementation": "./src/executors/application/executor",
-      "schema": "./src/executors/application/schema.json",
-      "description": "Execute the creation of a serverless application in the project"
-    },
     "event": {
       "implementation": "./src/executors/event/executor",
       "schema": "./src/executors/event/schema.json",
       "description": "event executor"
+    },
+    "serverless": {
+      "implementation": "./src/executors/serverless/executor",
+      "schema": "./src/executors/serverless/schema.json",
+      "description": "serverless executor"
     }
   }
 }
